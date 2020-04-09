@@ -1,0 +1,16 @@
+.viewport {
+  width: 320px;
+  height: 720px;
+  background-color: antiquewhite;
+  margin: 15px 30px;
+  overflow: auto;
+}
+
+.content {
+  width: 300px;
+  height: 100000px;
+  background-color: orange;
+  margin: 0 auto;
+  position: relative;
+  overflow: hidden;
+}
